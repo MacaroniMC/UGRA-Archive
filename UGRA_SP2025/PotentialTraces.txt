@@ -1,0 +1,16 @@
+Southern Trace pts.
+range 1:
+20131119_01_003
+20131119_01_027
+
+range 2: 
+20131119_04_005
+20131119_04_031
+
+All Traces from 2011_Antarctica_TO ? 
+
+
+Northern Trace pts.
+all of 2011_Antarctica_DC8
+all of 2018_Antarctica_DC8
+
